@@ -3,3 +3,5 @@ pandas
 numpy
 ydata-profiling
 streamlit_pandas_profiling
+setuptools
+
